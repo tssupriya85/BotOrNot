@@ -1,0 +1,4 @@
+vaderSentiment
+textblob 
+nltk
+enchant
